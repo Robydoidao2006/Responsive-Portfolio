@@ -24,7 +24,7 @@ https://robydoidao2006.github.io/Responsive-Portfolio/
 
 ## folder Structure
 
-![](treee.jpg)
+![](tree.jpg)
 
 ## Future Improvements
 - Personalize the Web page
